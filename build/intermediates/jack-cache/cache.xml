@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/KeisukeNishizawa/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.1"
+        sha1="ee6109bffb77e2a8508a9faf3eceab577ca73709">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-5e8bb91aba3317998c23f807f372df6fd5988292.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.0.1-e69d0ecc2bba11de7601ad32e3ff565443a34368.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d713a5625e6f512c4d07acd49eab749c0f2b699a.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.1-e9d813ccedd9ed61a3c514083d0c192c827c42aa.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.1-85df92eb87edb6b344619c7735a155f02222251f.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b1d69622060d84300aa786781e171287fbfe48ff.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.1-5c7a0f9cea22bf2b67206c0eb237ed896f10ab84.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.1-782fe41ebc6c0ec50549e0e1353be14331ce1cc1.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ed6e45ab3dcff2d254f8f455426665592d0e7035.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.1"
+        sha1="f3d8ef56b30e630eb84718ee1b10a38b38c057c0">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-2887d5bef2af3fd2d17cadd8d3746e1cb996d611.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-01e6ac29d7bf173604cd5afa116fff6bfe385b82.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ef9618626426b2b1d0dc6b0ca6477e8e134ddba8.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.1-39ecd19b15720ab0cc22ee47be3b25656990f475.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a8dc076d086459a2688d2a7835ef23b7e2701f8b.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-fcb95f2d9a2308ff8618c0e21d80a6afa9af7dca.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-19225673477a10efc2121dd7531b77a8c5277a18.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-57d7615868297e2ca31249b06f023299e809eb2f.jar" />
+    </item>
+    <item
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/libs/midi.jar"
+        revision="25.0.1"
+        sha1="b448976c4ce591cd5ce3620021b3fd589610f9c1">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/midi-9804ca7e29648deabcd5abe86d2bd4b60d1033bf.jar" />
+    </item>
+
+</items>

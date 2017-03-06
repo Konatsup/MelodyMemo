@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_b1d69622060d84300aa786781e171287fbfe48ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_fcb95f2d9a2308ff8618c0e21d80a6afa9af7dca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5c7a0f9cea22bf2b67206c0eb237ed896f10ab84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/KeisukeNishizawa/Documents/LiT/android_LiT/drive-download-20170113T025441Z/MelodyMemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_85df92eb87edb6b344619c7735a155f02222251f.jar" />
+    </item>
+
+</items>
