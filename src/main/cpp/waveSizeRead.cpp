@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "wave.h"
-double Java_keisukenishizawa_melodymemo_MainActivity_waveSizeRead(
+int Java_keisukenishizawa_melodymemo_MainActivity_waveSizeRead(
         JNIEnv *env,
         char *waveFile,
         jobject /* this */){

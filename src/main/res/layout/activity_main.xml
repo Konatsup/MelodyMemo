@@ -15,42 +15,63 @@
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:text="MelodyMemo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textStat"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="40sp" />
 
         <LinearLayout
             android:orientation="horizontal"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content">
 
             <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 app:srcCompat="@drawable/ic_keyboard_voice_black_24dp"
                 android:id="@+id/record"
                 android:layout_weight="1" />
 
             <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 app:srcCompat="@drawable/ic_play_arrow_black_24dp"
                 android:id="@+id/play"
                 android:layout_weight="1" />
 
             <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 app:srcCompat="@drawable/ic_pause_black_24dp"
-                android:id="@+id/imageButton3"
+                android:id="@+id/pause"
                 android:layout_weight="1" />
 
             <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 app:srcCompat="@drawable/ic_stop_black_24dp"
                 android:id="@+id/stop"
                 android:layout_weight="1" />
 
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/ic_library_music_black_24dp"
+                android:id="@+id/pitchDetect"
+                android:layout_weight="1" />
+
         </LinearLayout>
+
     </LinearLayout>
 
 </RelativeLayout>
