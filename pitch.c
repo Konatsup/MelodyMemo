@@ -12,7 +12,7 @@
 #define RESOLUTION 1000
 #define FFTSIZE 2048
 #define OVERLAP 44000
-#define THRESHOLD 0.85
+#define THRESHOLD 0.80
 void Write_Data(double *NSDF,int N){
 
   FILE *fpout;
@@ -70,11 +70,11 @@ int main(void)
   int peakCnt = 0;
   int *peakTime;
   int overlap = 0;
-  int incr = 1000;
+  int incr = 1102;
   //double pitch;
 
   int frame_num = SAMPLE_RATE*FFTSIZE;
-  mono_wave_read(&pcm0, "voice2.wav"); /* WAVE?t?@?C?????烂?m?????̉??f?[?^???͂???*/
+  mono_wave_read(&pcm0, "kaeru2_mix.wav"); /* WAVE?t?@?C?????烂?m?????̉??f?[?^???͂???*/
   //N = SAMPLE_RATE*LENGTH; //?t???[????
 
   printf("(%d)\n",pcm0.length);
